@@ -1,0 +1,102 @@
+#identity oper (is, is not0)
+
+# a=1
+# b=10
+# print(id(a))
+# print(id(b))
+# print( a is b)
+
+# a=10
+# b=10
+# print(id(a))
+# print(id(b))
+# print( a is b)
+
+# conditional statement
+
+# a=0
+# if a:
+#     print('yes')
+# else:
+#     print("no")
+
+#     a=1
+# if a:
+#     print('true')
+# else:
+#     print("false")  #these are boolean value
+
+# a=True
+# b=False
+# print(a+b)
+
+# if True*0:
+#     print('yes')
+# else:
+#     print('no')
+
+
+# if True*1:
+#     print('yes')
+# else:
+#     print('no')
+
+
+# .wap to check nymber give by user in odd or even.
+
+# num=23
+# if num % 2 == 0:
+#     print('even')
+# else:
+#     print('odd')
+
+# num=int(input("num"))
+# if num % 2 == 0:
+#     print('even')
+# else:
+#     print('odd') 
+
+
+    # wap to print the last digit of an number is 456735
+# num=int(input("enter your no."))
+# if num%10==0:
+#     print(0)
+# else:
+#     print('reminder')
+
+#     print(256466%10)
+
+# num1=3
+# num2=12
+# num3=9
+
+    # wap to find largest
+    # sap to find smallest
+
+
+    
+# if num1>=num2 and num1>=num3:
+#      print('num1 is largest')
+# if num2>=num3 and num2>=num1:
+#      print('num2 is larest')
+# if num3>=num1 and num3>=num2:
+#      print('num3 is largest')
+
+
+# n=100
+# if n>50:
+#      print('yes1')
+# if n>60:
+#      print('yes2')
+# if n>70:
+#      print('yes3')
+
+n=100
+
+if n>50:
+     print('yes1')
+elif n>60:
+     print('yes2')
+elif n>70:
+     print('yes3')
+     

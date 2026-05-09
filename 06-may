@@ -1,0 +1,51 @@
+# identity opr (is, is not)
+
+# a=1
+# b=10
+# print(id(a))
+# print(id(b))
+# print(a is b)
+
+# a=100
+# b=100
+# print(id(a))
+# print(id(b))
+# print(a is b)
+# conditional statement
+
+# a=0
+# if a:
+#     print("yes")
+# else:
+#     print("no")
+
+#     a=1
+#     if a:
+#         print('true')
+#     else:
+#         print('false')  #these are boolean value
+
+# a=True
+# b=False
+# print(a+b)
+
+# print(a*b)
+# print(a-b)
+
+# if True*0:
+#     print('yes')
+# else:
+#     print('no')
+
+
+if True*1:
+    print('yes')
+else:
+    print('no')
+
+                      # wap to number give by user in odd or even
+num=int(input("enter the number", ))
+if num % 2==0:
+    print('even')
+else:
+    print('odd')
