@@ -60,14 +60,14 @@
 
 
   
-# pre=input("enter your pre marks:")
-# if pre >= "400":
-#     print("your are pass in pre and eligible in mains")
-#     mains=input("enter your main marks")
-#     if mains>= "600":
-#        print("your are pass in mains")
-# else:
-#     print("better next time, your failed ❌")
+pre=input("enter your pre marks:")
+if pre >= "400":
+    print("your are pass in pre and eligible in mains")
+    mains=input("enter your main marks")
+    if mains>= "600":
+       print("your are pass in mains")
+else:
+    print("better next time, your failed ❌")
     
 
 # pre=int(input("enter your pre marks:"))
@@ -88,20 +88,20 @@
 #     print("better next time, your failed ❌")
 
 
-pre=int(input("enter your pre marks:"))
-if pre >= 400:
-    print("your are pass in pre and eligible in mains")
-    mains=int(input("enter your main marks"))
-    if mains>= 600:
-       print("your are pass in mains, selected for interview")
+# pre=int(input("enter your pre marks:"))
+# if pre >= 400:
+#     print("your are pass in pre and eligible in mains")
+#     mains=int(input("enter your main marks"))
+#     if mains>= 600:
+#        print("your are pass in mains, selected for interview")
 
-    interview=int(input("enter your interview number"))
-    if interview>=300:
-        print("congratulation, your r selected for UPSE Rajya SangSeva")
+#     interview=int(input("enter your interview number"))
+#     if interview>=300:
+#         print("congratulation, your r selected for UPSE Rajya SangSeva")
     
     
-else:
-    print("better next time, your failed ❌")
+# else:
+#     print("better next time, your failed ❌")
 
   
   

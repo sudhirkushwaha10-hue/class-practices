@@ -1,0 +1,16 @@
+# Nested for Loop:
+
+# for i in range(1,6):
+#     print("first loop")
+# for i in range(1,6):
+#     print(i,"first loop")
+
+# for i in range(1,6):
+#     print(i,"first loop")
+#     for j in range(1,6):
+#         print("inner loop")
+
+emp_name=["aman","kamal","nilesh", "raju"]
+print(emp_name[0], end=" ")
+for i in emp_name:
+    print(i)

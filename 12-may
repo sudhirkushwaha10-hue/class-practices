@@ -1,0 +1,59 @@
+# traversing : when you loop the stering or word thats called traversing, it can done by both for and while loop
+
+# name = "python"
+# size=len(name)
+# for i in range(size):
+#     print(i)
+
+name = "python"
+size=len(name)
+for i in range(size):
+    print(name)
+
+# name = "python"
+# size=len(name)
+# for i in range(size):
+#     print(name[0])
+
+name = "python"
+size=len(name)
+for i in range(size):
+    print(name[2])
+
+# name = "python"
+# for i in name:
+#     print(i)
+
+
+# for i in "python":
+#     print(i)
+
+# var1= "devOps Engineer"
+# for i in var1:
+#     if i== "e" or i== "E":
+#         continue
+#     print(i, end" ")
+
+
+
+
+#wap to count all the voewls from given string : "this sis devops batch"
+
+# var1= "this is devops batch"
+
+# for i in var1:
+#     if i in 
+
+
+#wap to print  your name in reverse format.
+# name="sudhir"
+# reverse_name = ""
+
+# for i in name:
+#     reverse_name = i + reverse_name
+
+# print("Reverse name is:", reverse_name)
+
+name = "python"
+for i in name:
+    print(i,name,(len(name)))
